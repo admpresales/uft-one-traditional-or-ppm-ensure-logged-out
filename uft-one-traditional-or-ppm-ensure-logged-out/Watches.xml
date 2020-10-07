@@ -1,0 +1,3 @@
+﻿<Properties>
+  <WatchEntry0 value="Browser(&quot;PPM&quot;).Page(&quot;PPM Logon&quot;).WebElement(&quot;Logon button&quot;).Exist" />
+</Properties>
