@@ -1,6 +1,7 @@
 ﻿'===========================================================
 '20201007 - Initial creation
 '20201007 - Renamed action
+'20210115 - DJ: Disabled smart identification for the runs
 '===========================================================
 
 Dim BrowserExecutable
